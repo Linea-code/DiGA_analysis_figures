@@ -1,0 +1,192 @@
+App_name,Company_name,Country,Permanent_listing,Listing_discontinued,Temporary_listing,Self_discontinued,Is_webapplication,Is_mobile_application,Additional_devices_included,Additional_device_optional,Additional_other_sensors,Additional_device_name,Language_german,Language_english,Language_other_list,Starting_price_in_euro,Price_in_euro,Einmallizenz,Discount_further_prescription,Additional_costs_in_euro,Therapist_action_required,Therapist_action_name,Prescription_timeframe_days,Diagnostic_instrument,ICD_codes_list,ICD_level_1,ICD_level_2,specialty_rough,ICD_level_1_e,ICD_level_2_e,specialty_rough_e,Is_for_male,Is_for_female,Is_for_nonbinary,Has_ICD_contraindication,Has_contraindication_pregnancy,Patient_education,Patient_symptom_tracking,Cognitive_behavior_therapy,Physical_training,Medical_device_class,Goal_medical_benefit,Goal_process_improvements,Institution_for_evaluation,Minimum_age,Maximum_age,start_date_testphase,end_date_testphase,negotiation_completed,Usage_of_KI,temp_listig_start,permanent_listing_start,End_of_listing_date
+actensio,mementor DE GmbH,Deutschland,0,0,1,0,1,1,0,0,0,0,1,0,,"593,81€","593,81€",0,0,0,0,,90,0,I10,Krankheiten des Kreislaufsystems,Hypertonie,Kardiologie,Diseases of the Circulatory System,Hypertension,Cardiology,1,1,1,0,1,1,1,0,0,1,1,0,"Universitätsmedizin Essen
+Ruhrlandklinik
+Westdeutsches Lungenzentrum am Universitätsklinikum Essen gGmbH
+Tüschener Weg 40
+45239 Essen",18,>65,30.12.2023,29.12.2024,,0,30.12.2023,,
+CANKADO PRO-React Onco,CANKADO GmbH,Deutschland,0,1,0,0,1,1,0,0,0,,1,1,"Arabisch
+
+Chinesisch
+
+Deutsch
+
+Englisch
+
+Französisch
+
+Griechisch
+
+Hindi
+
+Italienisch
+
+Malayalam
+
+Niederländisch
+
+Portugiesisch
+
+Russisch
+
+Türkisch
+
+Ungarisch","499,80€","399,84€",0,0,0,1,"Einweisung, Visite",90,0,C50,Neubildungen,Bösartige Neubildungen der Brustdrüse,Onkologie;Gynäkologie,Neoplasms,Malignant Neoplasms of the Breast,Oncology;Gynecology,1,1,1,0,0,1,1,0,0,1,0,1,"Brustzentrum
+Klinikum der Universität München",18,>65,03.05.2021,21.04.2023,,0,03.05.2021,,21.04.2023
+Cara Care für Reizdarm,HiDoc Technologies GmbH,Deutschland,1,0,0,0,0,1,0,0,0,,1,0,,"718,20€","574,56€",0,0,0,0,,90,0,"K58, K58.1, K58.2, K58.3, K58.8",Krankheiten des Verdauungssystems,Reizdarmsyndrom,Gastroentereologie,Diseases of the Digestive System,Irritable Bowel Syndrome,Gastroenterology,1,1,1,0,1,1,1,1,0,1,1,1,IGES Institut GmbH,18,70,26.12.2021,25.11.2023,,0,26.12.2021,24.11.2023,
+companion patella powered by medi - proved by Dt. Kniegesellschaft,PrehApp GmbH,Deutschland,1,0,0,0,1,0,0,0,0,,1,0,,"345,10€","223,49€",0,0,0,1,Verlaufskontrolle und Auswertung,90,0,"M22.2, M22.4, M76.5, M79.66, S83.0",Krankheiten des Muskel-Skelett-Systems und des Bindegewebes,Arthropathien;Enthesopathien,Orthopädie,Diseases of the Musculoskeletal System and Connective Tissue,Arthropathies;Enthesopathies,Orthopedics,1,1,1,1,0,1,1,0,1,1,1,0,Be on Clinical GmbH,12,65,04.10.2021,03.10.2023,1,0,04.10.2021,02.10.2023,
+deprexis,GAIA AG,Deutschland,1,0,0,0,1,0,0,0,0,,1,1,"Chinesisch
+Deutsch
+Englisch
+Französisch
+Griechisch
+Italienisch
+Portugiesisch
+Schwedisch
+Spanisch","297,50€",210€,0,0,0,0,,90,0,"F32.0, F32.1, F32.2, F33.0, F33.1, F33.2",Psychische und Verhaltensstörungen,Affektive Störungen,Psychiatrie,Mental and Behavioral Disorders,Affective Disorders,Psychiatry,1,1,1,1,0,1,1,0,0,1,1,0,,18,>65,20.02.2021,19.02.2022,1,0,,20.02.2021,
+edupression.com,SOFY GmbH,Österreich,1,0,0,0,1,0,0,0,0,,1,1,,,"357,00€",0,1,0,0,,90,0,"F32.0, F32.1, F33.0, F33.1",Psychische und Verhaltensstörungen,Affektive Störungen,Psychiatrie,Mental and Behavioral Disorders,Affective Disorders,Psychiatry,1,1,1,1,0,1,1,1,0,1,1,1,"Univ.Klinik für Psychiatrie und Psychotherapie, Medizinische Universität Wien",18,65,26.12.2022,25.12.2023,,0,26.12.2022,30.11.2023,
+elevida,GAIA AG,Deutschland,1,0,0,0,1,0,0,0,0,,1,1,,"743,75€","243,00€",0,0,0,0,,90,0,G35,Krankheit des Nervensystems,Multiple Sklerose,Neurologie,Diseases of the Nervous System,Multiple Sclerosis,Neurology,1,1,1,1,0,1,1,1,0,1,1,0,,18,>65,15.12.2020,14.12.2021,1,0,,15.12.2020,
+elona therapy Depression,Elona Health GmbH,Deutschland,0,0,1,0,1,1,0,0,0,,1,0,,,"535,49€",0,0,0,1,Behandlungsprogramm individualisieren; Monitoring/Auswertung,90,0,"F32.0, F32.1, F32.2, F33.0, F33.1, F33.2, F34.1",Psychische und Verhaltensstörungen,Affektive Störungen,Psychiatrie,Mental and Behavioral Disorders,Affective Disorders,Psychiatry,1,1,1,1,0,1,1,1,0,1,1,0,"Institut für Psychologie
+Friedrich-Alexander Universität Erlangen-Nürnberg",18,65,26.12.2022,25.12.2023,,0,26.12.2022,,
+Endo-App,Endo Health GmbH,Deutschland,0,0,1,0,0,1,0,0,0,,1,0,,"598,95€","402,30€",0,0,0,0,,90,0,N80,Krankheiten des Urogenitalsystems,Endometriose,Gynäkologie,Diseases of the Genitourinary System,Endometriosis,Gynecology,0,1,1,0,0,1,1,0,1,1,1,0,"Klinik für Frauenheilkunde und Geburtshilfe Uniklinikum Münster, fbeta GmbH",18,,09.10.2022,08.03.2024,,0,09.10.2022,,
+ESYSTA App & Portal – Digitales Diabetesmanagement,Emperra GmbH E-Health Technologies,Deutschland,0,1,0,0,1,1,0,1,0,"Blutzuckermessgeräte und Insulinpens, ",1,0,,"249,86€","0,00€",0,0,0,0,,90,0,"E10, E11","Endokrine, Ernährungs- und Stoffwechselkrankheiten",Diabetes mellitus,Endokrinologie,"Endocrine, Nutritional and Metabolic Diseases",Diabetes Mellitus,Endocrinology,1,1,1,0,0,0,1,0,0,1,1,0,"Lehrstuhlinhaber des Lehrstuhls für Prävention und Versorgung des Typ-2-Diabetes am Universitätsklinikum Carl-Gustav-Carus der TU Dresden
+-
+Department of Medicine III
+Prevention and Care of Diabetes
+University of Dresden
+Fetscherstr. 74
+01307 Dresden",18,>65,04.07.2021,03.10.2022,,0,04.07.2021,,04.10.2022
+glucura Diabetestherapie,Perfood GmbH,Deutschland,0,0,1,0,0,1,1,Blutzuckersensor,1,Fitness tracker,1,0,0,,"499,80€",0,0,0,0,0,90,0,E11,"Endokrine, Ernährungs- und Stoffwechselkrankheiten",Diabetes mellitus,Endokrinologie,"Endocrine, Nutritional and Metabolic Diseases",Diabetes Mellitus,Endocrinology,1,1,1,1,0,1,0,0,0,1,1,0,"Institut für Diabetes-Technologie, Forschungs- und Entwicklungsgesellschaft mbH
+an der Universität Ulm
+Lise-Meitner-Str. 8/2; D-89081 Ulm",18,>65,11.01.2024,10.01.2025,,0,11.01.2024,,
+HelloBetter Diabetes und Depression,GET.ON Institut für Online Gesundheitstrainings GmbH,Deutschland,1,0,0,0,1,1,0,0,0,,1,0,,"599,00€","222,99€",0,0,0,0,,90,0,"E10, E11","Endokrine, Ernährungs- und Stoffwechselkrankheiten",Diabetes mellitus,Endokrinologie,"Endocrine, Nutritional and Metabolic Diseases",Diabetes Mellitus,Endocrinology,1,1,1,0,1,1,1,1,0,1,1,0,,18,,11.12.2021,10.12.2022,1,0,,11.12.2021,
+HelloBetter Panik,GET.ON Institut für Online Gesundheitstrainings GmbH,Deutschland,1,0,0,0,1,1,0,0,0,,1,0,,"599,00€","230,00€",0,0,0,0,,90,0,"F40.01, F41.0",Psychische und Verhaltensstörungen,"Neurotische, Belastungs- und somatoforme Störungen",Psychiatrie,Mental and Behavioral Disorders,"Neurotic, Stress-related and Somatoform Disorders",Psychiatry,1,1,1,1,1,1,1,1,0,1,1,0,,18,,03.04.2022,02.04.2023,1,0,,03.04.2022,
+HelloBetter ratiopharm chronischer Schmerz,GET.ON Institut für Online Gesundheitstrainings GmbH,Deutschland,1,0,0,0,1,1,0,0,0,,1,0,,"599,00€","235,00€",0,0,0,0,,90,0,"F45.40, F45.41, M79.7",Psychische und Verhaltensstörungen;Krankheiten des Muskel-Skelett-Systems und des Bindegewebes,Somatoforme Störungen;Fibromyalgie,Psychiatrie;Orthopädie,Mental and Behavioral Disorders;Diseases of the Musculoskeletal System and Connective Tissue,Somatoform Disorders;Fibromyalgia,Psychiatry;Orthopedics,1,1,1,0,1,1,1,1,0,1,1,0,,18,,18.12.2021,15.07.2023,1,0,18.12.2021,17.07.2023,
+HelloBetter Schlafen,GET.ON Institut für Online Gesundheitstrainings GmbH,Deutschland,0,0,1,0,1,1,0,0,0,,1,0,,"599,00€","249,00€",0,0,0,0,,90,0,"F51.0, G47.0","Psychische und Verhaltensstörungen,Krankheit des Nervensystems","Nichtorganische Schlafstörungen,Schlafstörungen",Psychiatrie;Neurologie,Mental and Behavioral Disorders;Diseases of the Nervous System,Nonorganic Sleep Disorders;Sleep Disorders,Psychiatry;Neurology,1,1,1,1,1,1,1,1,0,1,1,0,,18,,18.12.2022,17.12.2024,,0,18.12.2022,,
+HelloBetter Stress und Burnout,GET.ON Institut für Online Gesundheitstrainings GmbH,Deutschland,1,0,0,0,1,1,0,0,0,,1,0,,"599,00€","235,00€",0,0,0,0,,90,0,	Z73,"Faktoren, die den Gesundheitszustand beeinflussen und zur Inanspruchnahme des Gesundheitswesens führen",Probleme mit Bezug auf Schwierigkeiten bei der Lebensbewältigung,Lifestyle,Factors Influencing Health Status and Contact with Health Services,Problems Related to Difficulty in Coping with Life,Lifestyle,1,1,1,0,1,1,1,1,0,1,1,0,,18,65,18.10.2021,17.10.2022,1,0,,18.10.2021,
+HelloBetter Vaginismus Plus,GET.ON Institut für Online Gesundheitstrainings GmbH,Deutschland,1,0,0,0,1,1,0,1,0,Vaginal-Dilatoren ,1,0,,"599,00€","235,00€",0,0,0,0,,90,0,"	F52.5, F52.6",Psychische und Verhaltensstörungen,"Sexuelle Funktionsstörungen, nicht verursacht durch eine organische Störung oder Krankheit",Psychiatrie,Mental and Behavioral Disorders,"Sexual Dysfunction, Not Caused by Organic Disorder or Disease",Psychiatry,0,1,1,1,1,1,1,1,1,1,1,0,,18,65,04.02.2022,03.02.2023,1,0,,04.02.2022,
+Invirto- Die Therapie gegen Angst,Sympatient GmbH,Deutschland,1,0,0,0,0,1,1,0,0,VR-Brille ,1,0,,"428,40€","220,00€",0,0,0,1,"VR Eignung feststellen, Datenauswertung",90,0,"F40.00, F40.01",Psychische und Verhaltensstörungen,"Neurotische, Belastungs- und somatoforme Störungen",Psychiatrie,Mental and Behavioral Disorders,"Neurotic, Stress-related and Somatoform Disorders",Psychiatry,1,1,1,1,1,1,0,1,0,1,1,0,Universitätsklinikum Schleswig-Holstein (UKSH),18,65,03.12.2020,02.12.2022,1,0,03.12.2020,02.12.2022,
+Kaia COPD: Meine aktive COPD Therapie,kaia health software GmbH,Deutschland,0,0,1,0,0,1,0,0,0,,1,1,,"415,00€","332,00€",0,0,0,0,,90,0,"J44.8, J44.9",Krankheiten des Atmungssystems,Sonstige chronische obstruktive Lungenkrankheit,Pneumologie,Diseases of the Respiratory System,Other Chronic Obstructive Pulmonary Disease,Pulmonology,1,1,1,1,0,1,0,0,1,2a,1,0,WIG 2 GmbH,18,>65,26.12.2022,25.12.2023,,1,26.12.2022,,
+Kaia Rückenschmerzen - Rückentraining für Zuhause,kaia health software GmbH,Deutschland,1,0,0,0,0,1,0,0,0,,1,1,,"489,39€","489,39€",0,0,0,0,,90,0,M54,Krankheiten des Muskel-Skelett-Systems und des Bindegewebes,Sonstige Krankheiten der Wirbelsäule und des Rückens,Orthopädie,Diseases of the Musculoskeletal System and Connective Tissue,Other Diseases of the Spine and Back,Orthopedics,1,1,1,1,0,1,0,0,1,2a,1,0,,18,65,03.02.2023,03.02.2023,,1,,03.02.2023,
+Kalmeda,mynoise GmbH,Deutschland,1,0,0,0,0,1,0,0,0,,1,0,,"116,97€","189,00€",0,0,0,1,"Tonschwellenaudiometrie, Reflexbestimmung an den Mittelohrmuskeln, Zusatzpauschale bei der Diagnostik des Tinnitus, Abklärung einer vestibulo-cochleären Erkrankung mittels Messung(en) otoakustischer Emissionen, Retro-cochleäre Erkrankung",90,0,H93.1,Krankheiten des Ohres und des Warzenfortsatzes,"Sonstige Krankheiten des Ohres, anderenorts nicht klassifiziert",Hals-Nasen-Ohren-Heilkunde,Diseases of the Ear and Mastoid Process,"Other Diseases of the Ear, Not Elsewhere Classified",Otorhinolaryngology,1,1,1,0,0,1,0,1,1,1,1,0,,,,25.09.2020,17.12.2021,1,0,25.09.2020,20.12.2021,
+Kranus Edera,Kranus Health GmbH,Deutschland,1,0,0,0,0,1,0,0,0,,1,0,,"552,01€","235,00€",0,0,0,0,,90,0,N48.4,Krankheiten der männlichen Genitalorgane,Sonstige Krankheiten des Penis,Urologie,Diseases of the Male Genital Organs,Other Diseases of the Penis,Urology,1,0,0,1,0,1,1,0,1,1,1,1,"Charité Universitätsmedizin Berlin, Universitätsklinikum Münster
+",,,18.12.2021,26.03.2023,1,0,18.12.2021,27.03.2023,
+levidex,GAIA AG,Deutschland,0,0,1,0,1,0,0,0,0,,1,0,,,"2.077,40€",1,0,0,0,,Einmallizenz,0,G35,Krankheit des Nervensystems,Multiple Sklerose,Neurologie,Diseases of the Nervous System,Multiple Sclerosis,Neurology,1,1,1,0,0,1,1,0,1,1,1,0,Universitätsklinikum Schleswig-Holstein,18,65,07.01.2023,06.01.2024,,0,07.01.2023,,
+M-sense Migräne,Newsenselab GmbH,Deutschland,0,1,0,0,0,1,0,0,0,,1,0,,"219,98€","10,00€",0,0,0,1,"Anleitung, Auswertung",90,1,G43,Krankheiten des Nervensystems,Episodische und paroxysmale Krankheiten des Nervensystems,Neurologie,Diseases of the Nervous System,Episodic and Paroxysmal Disorders of the Nervous System,Neurology,1,1,1,0,1,1,1,0,0,1,1,1,"Institute for Social Medicine, Epidemiology and Health Economics
+Charité – Universitätsmedizin Berlin
+Campus Charité Mitte
+Luisenstraße 57
+10117 Berlin
+Prof. Dr. Claudia Witt
+Dr. Daniel Pach
+-
+Institute for Complementary and Integrative Medicine
+University of Zurich and University Hospital Zurich
+Sonneggstrasse 6
+CH-8006 Zürich
+Prof. Dr. Claudia Witt",18,>65,16.12.2020,15.06.2022,,0,16.12.2020,,04.04.2022
+Mawendo,Mawendo GmbH,Deutschland,1,0,0,0,1,0,0,0,0,,1,0,,"119,00€","119,00€",1,0,0,1,Behandlungsprogramm individualisieren,90,0,M22,Krankheiten des Muskel-Skelett-Systems und des Bindegewebes,Arthropathien,Orthopädie,Diseases of the Musculoskeletal System and Connective Tissue,Arthropathies,Orthopedics,1,1,1,1,1,1,1,0,1,1,1,0,Technische Universität Chemnitz,12,>65,09.08.2021,08.08.2023,,0,09.08.2021,08.08.2023,
+mebix,"Vision2B GmbH,",Deutschland,0,0,1,0,0,1,0,0,0,,1,0,,,"499,00€",0,0,0,0,,90,0,E11,"Endokrine, Ernährungs- und Stoffwechselkrankheiten",Diabetes mellitus,Endokrinologie,"Endocrine, Nutritional and Metabolic Diseases",Diabetes Mellitus,Endocrinology,1,1,1,0,0,1,1,0,0,1,1,0,Lehrstuhls für Prävention und Versorgung des Typ-2-Diabetes am Universitätsklinikum Carl-Gustav-Carus der TU Dresden,18,>65,14.07.2023,13.07.2024,,0,14.07.2023,,
+Meine Tinnitus App - Das digitale Tinnitus Counseling,Sonormed GmbH,Deutschland,0,0,1,0,0,1,0,0,0,,1,0,,,"449,00€",1,0,0,0,,70,0,H93.1,Krankheiten des Ohres und des Warzenfortsatzes,Sonstige Krankheiten des Ohres,Hals-Nasen-Ohren-Heilkunde,Diseases of the Ear and Mastoid Process,Other Diseases of the Ear,Otorhinolaryngology,1,1,1,0,0,1,0,0,0,1,1,1,inav - privates Institut für angewandte Versorgungsforschung GmbH,18,>65,06.03.2022,05.03.2024,,0,06.03.2022,,
+Mika,Fosanis GmbH,Deutschland,0,1,0,0,0,1,0,1,0,"Fitbit, Garmin, Polar, Withings // Apple Health, GoogleFit",1,0,,"419,00€","499,00€",0,0,0,0,,90,0,"C00, C01, C02, C03, C04, C05, C06, C07, C08, C09, C10, C11, C12, C13, C14, C15, C16, C17, C18, C19, C20, C21, C22, C23, C24, C25, C26, C30, C31, C32, C33, C34, C37, C38, C39, C40, C41, C43, C44, C45, C46, C47, C48, C49, C50, C51, C52, C53, C54, C55, C56, C57, C58, C60, C61, C62, C63, C64, C65, C66, C67, C68, C69, C70, C71, C72, C73, C74, C75, C76, C77, C78, C79, C80, C81, C82, C83, C84, C85, C86, C88, C90, C91, C92, C93, C94, C95, C96, C97",Neubildungen,"Bösartige Neubildungen an genau bezeichneten Lokalisationen, als primär festgestellt oder vermutet, ausgenommen lymphatisches, blutbildendes und verwandtes Gewebe",Onkologie,Neoplasms,"Malignant Neoplasms at Precisely Designated Locations, Except Lymphatic, Haematopoietic, and Related Tissue",Oncology,0,1,1,0,0,1,1,1,0,1,1,0,"Clinical Research Organization (CRO)
+H.P. Zenner Clinical GmbH & Co. KG
+Bismarckstr. 66
+72072 Tübingen",18,>65,25.03.2021,24.03.2022,,0,25.03.2021,,25.03.2022
+Mindable: Panikstörung und Agoraphobie,Mindable Health GmbH,Deutschland,1,0,0,0,0,1,0,0,0,,1,1,Französisch,"576,00€","576,00€",0,0,0,0,,90,,"F40.0, F41.0",Psychische und Verhaltensstörungen,"Neurotische, Belastungs- und somatoforme Störungen",Psychiatrie,Mental and Behavioral Disorders,"Neurotic, Stress-related and Somatoform Disorders",Psychiatry,1,1,1,1,1,1,1,1,1,1,1,1,"Psychotherapeutische Ambulanz der Jacobs University Bremen, Psychotherapeutische Ambulanz der PTA Hamburg",18,>65,29.04.2021,28.04.2023,,0,29.04.2021,28.04.2023,
+Mindable: Soziale Phobie,Mindable Health GmbH,Deutschland,0,0,1,0,0,1,0,0,0,0,1,1,"Deutsch
+Englisch
+Französisch",,"765,00€",0,0,0,0,0,90,0,F40.1,Psychische und Verhaltensstörungen,"Neurotische, Belastungs- und somatoforme Störungen",Psychiatrie,Mental and Behavioral Disorders,"Neurotic, Stress-related and Somatoform Disorders",Psychiatry,1,1,1,0,0,1,1,1,0,1,1,0,"Goethe Universität Frankfurt
+Theodor-W.-Adorno-Platz
+160323 Frankfurt am Main
+-
+TU Dresden
+Helmholtzstr. 10
+01069 Dresden",18,65,11.12.2023,10.12.2024,,0,11.12.2023,,
+My7steps App,My7steps GmbH,Deutschland,0,0,1,0,1,0,0,0,0,,1,1,"Arabisch
+Deutsch
+Englisch
+Französisch
+Persisch
+Türkisch",,"470,05€",0,0,0,0,,60,0,"F32.0, F32.1, F33.0, F33.1",Psychische und Verhaltensstörungen,Affektive Störungen,Psychiatrie,Mental and Behavioral Disorders,Affective Disorders,Psychiatry,1,1,1,1,0,1,0,0,0,1,1,0,"fbeta GmbH, Verhaltenstherapie Falkenried MVZ GmbH, Universitätsklinikum Hamburg-Eppendorf, KoMIT - Kompetenzzentrum Mensch",18,65,17.02.2023,16.02.2024,,0,17.02.2023,,
+neolexon Aphasie,Limedix GmbH,Deutschland,0,0,1,0,1,1,0,0,0,,1,0,,,"487,90€",0,0,0,1,"Auswahl von Übungsprogrammen, Anpassung von Trainingsplänen",90,0,"R47.0, R48.2","Symptome und abnorme klinische und Laborbefunde, die anderenorts nicht klassifiziert sind","Symptome, die die Sprache und die Stimme betreffen",Neurologie,"Symptoms, Signs and Abnormal Clinical and Laboratory Findings, Not Elsewhere Classified",Symptoms Involving Speech and Voice,Neurology,1,1,1,0,0,1,0,0,0,1,1,0,"Gesundheitscampus Göttingen
+Fakultät Ingenieurwissenschaften und Gesundheit
+Hochschule für angewandte Wissenschaft und Kunst (HAWK), Entwicklungsgruppe Klinische Neuropsychologie
+Institut für Phonetik und Sprachverarbeitung
+Ludwig-Maximilians-Universität München",18,>65,06.02.2022,05.02.2024,,0,06.02.2022,,
+NeuroNation MED,Synaptikon GmbH,Deutschland,0,0,1,0,0,1,0,0,0,,1,1,,,"499,00€",0,0,0,0,,90,0,F06.7,Psychische und Verhaltensstörungen,Andere psychische Störungen aufgrund einer Schädigung oder Funktionsstörung des Gehirns oder einer körperlichen Krankheit,Psychiatrie,Mental and Behavioral Disorders,Other Mental Disorders Due to Brain Damage or Dysfunction or to Physical Disease,Psychiatry,1,1,1,0,0,1,0,1,1,1,1,0,"Forschungsgruppe Geriatrie
+Charité – Universitätsmedizin Berlin,
+
+Klinik für Neurologie mit Experimenteller Neurologie
+Charité - Universitätsmedizin Berlin
+& Berlin School of Mind and Brain,
+Humboldt-Universität zu Berlin
+
+Gedächtniszentrum der Neurologie
+Universitätsklinikum Jena
+
+Centrum für Neuropsychologische Diagnostik und Intervention (CeNDI)
+Universitätsklinikum Köln
+& Medizinische Fakultät der Universität zu Köln
+
+Centre Hospitalier Neuro-Psychiatrique in Luxemburg (CHNP)
+Psychologue / Psychothérapeute Unité Horizon
+
+Neuropsychologische Hochschulambulanz
+Department Psychologie
+LMU München",18,>65,13.05.2023,12.05.2024,,0,13.05.2023,,
+NichtraucherHelden-App,Sanero Medical GmbH,Deutschland,1,0,0,0,0,1,0,0,0,,1,0,,"239,00€","329,00€",0,1,0,0,,90,0,F17.2,Psychische und Verhaltensstörungen,Psychische und Verhaltensstörungen durch psychotrope Substanzen,Psychiatrie,Mental and Behavioral Disorders,Mental and Behavioral Disorders Due to Psychoactive Substance Use,Psychiatry,1,1,1,1,0,1,1,1,0,1,1,0,"WIG2 GmbH, novineon CRO GmbH",18,>65,03.07.2021,30.06.2023,,0,03.07.2021,30.06.2023,
+Novego: Ängste überwinden,IVPNetworks GmbH,Deutschland,0,0,1,0,1,0,0,0,0,,1,0,,,"219,98€",1,0,0,0,,Einmallizenz,0,"F40.0, F40.1, F40.2, F41.0",Psychische und Verhaltensstörungen,"Neurotische, Belastungs- und somatoforme Störungen",Psychiatrie,Mental and Behavioral Disorders,"Neurotic, Stress-related and Somatoform Disorders",Psychiatry,1,1,1,1,0,1,1,1,0,1,1,0,"Universitätsklinikum Hamburg-Eppendorf (UKE), Zentrum für Psychosoziale Medizin, Klinik und Poliklinik für Psychiatrie und Psychotherapie, AG Neuropsychologie, Martinistraße 52, 20246 Hamburg, Deutschland",18,>65,24.03.2023,23.03.2024,,0,24.03.2023,09.10.2023,
+Novego: Depressionen bewältigen,IVPNetworks GmbH,Deutschland,1,0,0,0,1,0,0,0,0,,1,0,,"249,00€","199,00€",0,0,0,0,,90,0,"F32.0, F32.1, F32.2, F33.0, F33.1, F33.2, F34.1",Psychische und Verhaltensstörungen,Affektive Störungen,Psychiatrie,Mental and Behavioral Disorders,Affective Disorders,Psychiatry,1,1,1,1,0,1,1,1,0,1,1,0,"Universitätsklinikum Hamburg-Eppendorf (UKE), Zentrum für Psychosoziale Medizin, Klinik und Poliklinik für Psychiatrie und Psychotherapie, AG Neuropsychologie, Martinistraße 52, 20246 Hamburg, Deutschland",18,65,10.10.2021,09.10.2023,1,0,10.10.2021,,
+optimune,GAIA AG,Deutschland,0,0,1,0,1,0,0,0,0,,1,0,,,"952,00€",0,0,0,0,,90,0,C50,Neubildungen,Bösartige Neubildungen der Brustdrüse,Onkologie;Gynäkologie,Neoplasms,Malignant Neoplasms of the Breast,Oncology;Gynecology,0,1,1,0,0,1,1,1,0,1,1,0,Leibniz-Institut für Arbeitsforschung an der TU Dortmund (IfADo),18,>65,14.07.2022,13.07.2024,,0,14.07.2022,,
+Orthopy bei Knieverletzungen,Orthopy Health GmbH,Deutschland,0,0,1,0,0,1,0,0,0,,1,0,,,"487,84€",1,0,0,1,Verlaufskontrolle und Individualisierung,Einmallizenz,0,"M23.2, M23.3, M23.61, S83.2, S83.53","Krankheiten des Muskel-Skelett-Systems und des Bindegewebes;Verletzungen, Vergiftungen und bestimmte andere Folgen äußerer Ursachen",Arthropathien;Verletzungen des Knies und des Unterschenkels,,"Diseases of the Musculoskeletal System and Connective Tissue;Injury, Poisoning and Certain Other Consequences of External Causes",Arthropathies;Knee and Lower Leg Injuries,Orthopedics,1,1,1,1,0,1,1,0,1,1,1,0,"Arcus Kliniken Pforzheim, fbeta GmbH",18,65,09.09.2023,08.09.2024,,0,09.09.2023,,
+Oviva Direkt für Adipositas,Oviva AG (Zweigniederlassung Deutschland),Deutschland,1,0,0,0,0,1,0,1,0,Apple Health und GoogleFit einbindung möglich; Wearables möglich viaBluetooth,1,0,,"345,00€","220,90€",0,0,0,1,"Verlaufskontrolle, Auswertung",90,0,"E66.00, E66.01","Endokrine, Ernährungs- und Stoffwechselkrankheiten",Adipositas und sonstige Überernährung,Endokrinologie,"Endocrine, Nutritional and Metabolic Diseases",Obesity and Other Hyperalimentation,Endocrinology,1,1,1,1,1,1,1,0,0,2a,1,0,TUMEER0 Institut für Ernährungsmedizin,18,>65,03.10.2021,30.06.2023,1,0,03.10.20201,30.06.2023,
+PINK! Coach,PINK gegen Brustkrebs GmbH,Deutschland,1,0,0,0,0,1,0,0,0,,1,0,,"535,50€","535,50€",0,0,0,0,,90,0,C50,Neubildungen,Bösartige Neubildungen der Brustdrüse,Onkologie;Gynäkologie,Neoplasms,Malignant Neoplasms of the Breast,Oncology;Gynecology,1,1,1,0,0,1,1,0,0,1,1,0,"CRO Prof. Dr. HP Zenner
+Clinical Research Organization
+Prof. Dr. HP Zenner GmbH
+Bismarckstr. 66
+72072 Tübingen",18,>65,27.06.2022,26.10.2023,,0,27.06.2022,16.11.2023,
+priovi - digitale Unterstützung der Borderline-Behandlung,GAIA AG,Deutschland,0,0,1,0,1,0,0,0,0,,1,0,,,"855,83€",1,0,0,0,,Einmallizenz,0,F60.32,Psychische und Verhaltensstörungen,Affektive Störungen,Psychiatrie,Mental and Behavioral Disorders,Affective Disorders,Psychiatry,1,1,1,0,1,1,1,1,0,1,1,0,"Universität zu Lübeck, Klinik für Psychiatrie und Psychotherapie, ",18,65,05.03.2023,04.12.2023,,0,05.03.2023,,
+ProHerz,ProCarement GmbH,Deutschland,0,0,1,0,0,1,0,1,1,"Smartphone, optional Waage, Blutdruckmessgerät, Körperthermometer, Pulsoximeter",1,0,,,605€,0,1,0,1,Verlaufskontrolle,90,0,I50,Krankheiten des Kreislaufsystems,Herzinsuffizienz,Kardiologie,Diseases of the Circulatory System,Heart Failure,Cardiology,1,1,1,1,1,1,1,0,0,1,0,1,Medical Valley Digital Health Application Center GmbH,18,,15.05.2023,14.05.2024,,0,15.05.2023,,
+re.flex,Kineto Tech Rehab SRL,Romania,0,0,1,0,0,1,1,0,0,Bewegungssensoren,1,1,0,,"784,21€",0,0,0,0,,90,0,"M17.0, M17.1, M17.2, M17.3, M17.4, M17.5, M17.9",Krankheiten des Muskel-Skelett-Systems und des Bindegewebes,Arthropathien,Orthopädie,Diseases of the Musculoskeletal System and Connective Tissue,Arthropathies,Orthopedics,1,1,1,1,1,0,1,0,1,1,1,0,"Universitätsklinikum Tübingen, fbeta GmbH",18,,29.09.2022,28.03.2024,,0,29.09.2022,,
+Rehappy,Rehappy GmbH,Deutschland,0,1,0,0,0,1,0,0,0,,1,0,,,"449,00€",0,1,0,0,,90,0,"G45, I60, I61, I62, I63, I64, I67, I6",Krankheiten des Nervensystems;Krankheiten des Kreislaufsystems,Zerebrale transitorische Ischämie und verwandte Syndrome;Zerebrovaskuläre Krankheiten,Neurologie,Diseases of the Nervous System;Diseases of the Circulatory System,Cerebral Transient Ischemia and Related Syndromes;Cerebrovascular Diseases,Neurology,1,1,1,1,0,1,1,0,0,1,1,1,"InGef - Institut für angewandte Gesundheitsforschung Berlin GmbH
+Spittelmarkt 12
+10117 Berlin",12,>65,29.12.2020,28.09.2022,,0,29.12.2020,,26.09.2022
+Selfapys Online-Kurs bei Binge-Eating-Störung,Selfapy GmbH,Deutschland,1,0,0,0,1,1,0,0,0,,1,0,,"540,00€","232,00€",0,0,0,0,,90,0,"F50.4, F50.8, F50.9",Psychische und Verhaltensstörungen,Essstörungen,Psychiatrie,Mental and Behavioral Disorders,Eating Disorders,Psychiatry,1,1,1,1,0,1,1,1,0,1,1,0,"Arbeitseinheit Klinische Psychologie und Psychotherapie
+Psychologisches Institut der Universität Heidelberg
+Hauptstr. 47-51, 69117 Heidelberg",18,65,05.01.2023,03.08.2023,,0,05.01.2023,03.08.2023,
+Selfapys Online-Kurs bei Bulimia Nervosa,Selfapy GmbH,Deutschland,1,0,0,0,1,1,0,0,0,,1,0,,"540,00€","232,00€",0,0,0,0,,90,0,"F50.2, F50.3",Psychische und Verhaltensstörungen,Essstörungen,Psychiatrie,Mental and Behavioral Disorders,Eating Disorders,Psychiatry,1,1,1,1,0,1,1,1,0,1,1,0,"Arbeitseinheit Klinische Psychologie und Psychotherapie
+Psychologisches Institut der Universität Heidelberg
+Hauptstr. 47-51, 69117 Heidelberg",18,65,05.01.2023,11.08.2023,,0,05.01.2023,14.08.2023,
+Selfapys Online-Kurs bei chronischen Schmerzen,Selfapy GmbH,Deutschland,0,0,1,0,1,1,0,0,0,,1,0,,,"540,00€",0,0,0,0,,90,0,"F45.40, F45.41, M54",Psychische und Verhaltensstörungen;Krankheiten des Muskel-Skelett-Systems und des Bindegewebes,Somatoforme Störungen;Sonstige Krankheiten der Wirbelsäule und des Rückens,Psychiatrie;Orthopädie,Mental and Behavioral Disorders;Diseases of the Musculoskeletal System and Connective Tissue,Somatoform Disorders;Other Diseases of the Spine and Back,Psychiatry;Orthopedics,1,1,1,1,0,1,1,1,0,1,1,0,"Lehrstuhl für Klinische Psychologie - Institut für Psychologie
+Humboldt-Universität zu Berlin
+Unter den Linden 6
+10099 Berlin",18,>65,21.04.2023,20.04.2024,,0,21.04.2023,,
+"Selfapys Online-Kurs bei Depression
+",Selfapy GmbH,Deutschland,1,0,0,0,1,1,0,0,0,,1,0,,"540,00€","217,18€",0,0,0,0,,90,0,"F32.0, F32.1, F33.0, F33.1",Psychische und Verhaltensstörungen,Affektive Störungen,Psychiatrie,Mental and Behavioral Disorders,Affective Disorders,Psychiatry,1,1,1,1,0,1,1,1,0,1,1,0,Charité - Klinik für Psychiatrie und Psychotherapie,18,>65,16.12.2020,15.12.2021,1,0,16.12.2020,11.04.2022,
+Selfapys Online-Kurs bei Generalisierter Angststörung,Selfapy GmbH,Deutschland,1,0,0,0,1,1,0,0,0,,1,0,,"540,00€","228,50€",0,0,0,0,,90,0,F41.1,Psychische und Verhaltensstörungen,"Neurotische, Belastungs- und somatoforme Störungen",Psychiatrie,Mental and Behavioral Disorders,"Neurotic, Stress-related and Somatoform Disorders",Psychiatry,1,1,1,1,0,1,1,1,0,1,1,0,"Justus-Liebig-Universität Gießen, Professur für Psychotherapieforschung",18,65,19.06.2021,18.11.2022,1,0,19.06.2021,18.11.2022,
+Selfapys Online-Kurs bei Panikstörung,Selfapy GmbH,Deutschland,0,1,0,0,1,0,0,0,0,,1,0,,"540,00€","540,00€",0,0,0,0,,90,0,"F40.01, F41.0",Psychische und Verhaltensstörungen,"Neurotische, Belastungs- und somatoforme Störungen",Psychiatrie,Mental and Behavioral Disorders,"Neurotic, Stress-related and Somatoform Disorders",Psychiatry,1,1,1,1,0,1,1,1,0,1,1,0,"Justus-Liebig-Universität Gießen, Professur für Psychotherapieforschung",18,65,19.06.2021,18.11.2022,,0,19.6.2021,,18.11.2022
+sinCephalea - Migräneprophylaxe,Perfood GmbH,Deutschland,0,0,1,0,0,1,0,1,0,Blutzuckersensoren,1,0,,,"690,00€",0,0,0,0,,90,0,"G43.0, G43.1",Krankheiten des Nervensystems,Episodische und paroxysmale Krankheiten des Nervensystems,Neurologie,Diseases of the Nervous System,Episodic and Paroxysmal Disorders of the Nervous System,Neurology,1,1,0,1,0,1,1,0,0,1,1,0,"Universitätsklinikum Schleswig-Holstein, Campus Lübeck
+Exzellenzzentrum Entzündungsmedizin
+Institut für Medizinische Biometrie und Statistik
+Universität zu Lübeck
+Ratzeburger Allee, 23538 Lübeck",18,65,10.10.2022,09.08.2024,,0,10.10.2022,,
+Smoke Free - Rauchen aufhören,Smoke Free 23 GmbH,Deutschland,0,0,1,0,0,1,0,0,0,,1,1,,,"389,00€",0,1,0,0,,90,0,F17.2,Psychische und Verhaltensstörungen,Psychische und Verhaltensstörungen durch psychotrope Substanzen,Psychiatrie,Mental and Behavioral Disorders,Mental and Behavioral Disorders Due to Psychoactive Substance Use,Psychiatry,1,1,1,0,0,1,1,1,0,1,1,0,"Wissenschaftliches Institut für Gesundheitsökonomie und Gesundheitssystemforschung (WIG2) GmbH, MEDIACC GmbH",18,65,29.01.2023,28.01.2024,,0,29.01.2023,,
+somnio,mementor DE GmbH,Deutschland,1,0,0,0,1,1,0,1,0,Fitbit,1,1,"Deutsch
+Englisch
+Französisch","464,00€","224,99€",0,0,1,1,"Verlaufskontrolle, Auswertung",90,0,"F51.0, G47.0","Psychische und Verhaltensstörungen,Krankheit des Nervensystems","Nichtorganische Schlafstörungen,Schlafstörungen",Psychiatrie;Neurologie,Mental and Behavioral Disorders;Diseases of the Nervous System,Nonorganic Sleep Disorders;Sleep Disorders,Psychiatry;Neurology,1,1,1,1,0,1,1,1,0,1,1,0,,18,>65,22.10.2020,21.10.2021,1,0,,22.10.2020,
+Untire,Tired of Cancer B.V.,Niederlande,0,0,1,0,0,1,0,0,0,0,1,1,"Deutsch
+Englisch
+Niederländisch",,"618,00€",0,0,0,0,0,90,0,C50,Neubildungen,Bösartige Neubildungen der Brustdrüse,Onkologie;Gynäkologie,Neoplasms,Malignant Neoplasms of the Breast,Oncology;Gynecology,1,1,0,1,0,1,0,0,1,1,1,0,"fbeta GmbH
+Akazienstraße 31
+10823 Berlin, Deutschland
+-
+THINC - University Medical Center Utrecht
+Heidelberglaan 100,
+3584 CX Utrecht, die Niederlande",18,>65,25.12.2023,24.12.2024,,0,25.12.2023,,
+velibra,GAIA AG,Deutschland,1,0,0,0,1,0,0,0,0,,1,1,,"476,00€","230,00€",0,0,0,0,,90,0,"F40.01, F40.1, F41.0, F41.1",Psychische und Verhaltensstörungen,"Neurotische, Belastungs- und somatoforme Störungen",Psychiatrie,Mental and Behavioral Disorders,"Neurotic, Stress-related and Somatoform Disorders",Psychiatry,1,1,1,1,0,1,1,1,0,1,1,1,,18,>65,01.10.2020,30.09.2021,1,0,,01.10.2020,
+Vitadio,Vitadio s.r.o.,Tschechische Republik,0,0,1,0,0,1,0,0,0,,1,0,,,"499,80€",0,0,0,0,,90,0,E11,"Endokrine, Ernährungs- und Stoffwechselkrankheiten",Diabetes mellitus,Endokrinologie,"Endocrine, Nutritional and Metabolic Diseases",Diabetes Mellitus,Endocrinology,1,1,1,0,0,1,1,0,0,1,1,0,"Medizinische Klinik III, Universitätsklinikum Carl Gustav Carus der TU Dresden",18,>65,15.04.2022,14.04.2024,,0,15.04.2022,,
+Vivira,Dr. Philip Heimann,Deutschland,1,0,0,0,0,1,0,0,0,,1,1,,"239,96€","206,79€",0,0,0,1,"Verlaufskontrolle, Auswertunng",90,0,"M42.0, M42.1, M42.9, M53.2, M53.8, M53.9, M54.4, M54.5, M54.6, M54.8, M54.9, M99.02, M99.03, M99.04, M99.82, M99.83, M99.84, M99.92, M99.93, M99.94",Krankheiten des Muskel-Skelett-Systems und des Bindegewebes,Krankheiten der Wirbelsäule und des Rückens;Sonstige Krankheiten des Muskel-Skelett-Systems und des Bindegewebes,Orthopädie,Diseases of the Musculoskeletal System and Connective Tissue,Diseases of the Spine and Back;Other Diseases of the Musculoskeletal System and Connective Tissue,Orthopedics,1,1,1,1,1,1,1,0,1,1,1,0,"Clinical Research Organization (CRO)
+H.P. Zenner Clinical GmbH & Co. KG
+Bismarckstr. 66
+72072 Tübingen",18,>65,22.10.2020,17.02.2022,1,0,22.10.2020,17.02.2022,
+vorvida,GAIA AG,Deutschland,1,0,0,0,1,0,0,0,0,,1,1,,"476,00€","192,01€",0,0,0,0,,90,0,"F10.1, F10.2",Psychische und Verhaltensstörungen,Psychische und Verhaltensstörungen durch psychotrope Substanzen,Psychiatrie,Mental and Behavioral Disorders,Mental and Behavioral Disorders Due to Psychoactive Substance Use,Psychiatry,1,1,1,1,0,1,1,1,0,1,1,1,,18,>65,06.05.2021,05.05.2022,1,0,,06.05.2021,
+zanadio,vaidhere GmbH,Deutschland,1,0,0,0,0,1,0,1,1,"Starterpack; EInbindung möglich von: Fitbit, Garmin, Polar, Misfit, Withings, OmronConnect, Suunto, Oura, iHealth, AppMyFitnessPal, Strava, Runtastic, GoogleFit",1,0,,"499,80€","218,00€",0,0,0,1,Verlaufskontrolle ,90,0,"E66.00, E66.01","Endokrine, Ernährungs- und Stoffwechselkrankheiten",Adipositas und sonstige Überernährung,Endokrinologie,"Endocrine, Nutritional and Metabolic Diseases",Obesity and Other Hyperalimentation,Endocrinology,1,1,1,1,1,1,1,1,0,1,1,0,"Universität Leipzig, University of Helsinki",18,>65,22.10.2020,15.08.2022,1,0,22.10.2020,15.08.2022,
