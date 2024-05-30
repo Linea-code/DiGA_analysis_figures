@@ -1,12 +1,12 @@
 # The Three-Year Evolution of Germany's Digital Therapeutics Reimbursement Program and Its Path Forward
 
-This repository contains files for the manuscript titled "The Three-Year Evolution of Germany's Digital Therapeutics Reimbursement Program and Its Path Forward" by Schmidt, Pawlitzki, Renard, Meuth, and Masanneck, published on XXX 2024 in *Nature npj Digital Medicine*. 
+This repository contains files for the manuscript titled "The Three-Year Evolution of Germany's Digital Therapeutics Reimbursement Program and Its Path Forward" by Schmidt, Pawlitzki, Renard, Meuth, and Masanneck, published on May 24th 2024 in *Nature npj Digital Medicine*. 
 
 ### Manuscript Publication
 - **Title**: The Three-Year Evolution of Germany's Digital Therapeutics Reimbursement Program and Its Path Forward
 - **Authors**: Schmidt, Pawlitzki, Renard, Meuth, and Masanneck
 - **Published**: 2024, *Nature npj Digital Medicine*
-- **Access**: Article available on [Nature npj Digital Medicine](#) (link to be updated upon acceptance)
+- **Access**: Article available on [Nature npj Digital Medicine](https://www.nature.com/articles/s41746-024-01137-1) 
 
 ### Repository Contents
 
